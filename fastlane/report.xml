@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="fastlane.lanes">
+    
+    
+    
+      
+      <testcase classname="fastlane.lanes" name="0: default_platform" time="0.012277">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="1: build_summary" time="2.529133">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="2: modify_config_xml" time="0.181878">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="3: build_pro_app" time="21.986369">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="4: download_credential" time="0.005094">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="5: build_android_cordova" time="57.997454">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="6: upload_apk" time="29.846138">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="7: upload_source_maps" time="0.76742">
+        
+      </testcase>
+    
+  </testsuite>
+</testsuites>
